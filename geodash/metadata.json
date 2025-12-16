@@ -1,0 +1,5 @@
+{
+  "name": "GeoDash",
+  "description": "A high-performance Geometry Dash clone featuring a level editor and AI-powered level generation using Google Gemini.",
+  "requestFramePermissions": []
+}
